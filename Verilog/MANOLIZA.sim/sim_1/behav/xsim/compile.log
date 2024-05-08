@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/imports/vivado/ALU.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/imports/vivado/common bus.srcs/sim_1/new/bus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bus
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/imports/vivado/decoder/decoder.srcs/sources_1/new/decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_8_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/new/dff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/new/memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/imports/vivado/project_5/project_5.srcs/sources_1/new/regester_12bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_12bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/imports/vivado/project_4/project_4.srcs/sources_1/new/regester_16bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_16bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/imports/new/sc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/MANOLIZA/MANOLIZA.srcs/sim_1/new/ins_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ins_tb
